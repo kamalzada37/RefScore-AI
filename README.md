@@ -17,10 +17,6 @@ This project contains everything you need to run your app locally.
 3. Install dependencies: `npm install`
 4. Create an `.env.local` file and set the right environment variables
 
-
-e.g.
-VITE_BASE44_APP_ID=cbef744a8545c389ef439ea6
-VITE_BASE44_APP_BASE_URL=https://my-to-do-list-81bfaad7.base44.app
 ```
 
 Run the app: `npm run dev`
@@ -30,4 +26,5 @@ Run the app: `npm run dev`
 Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
 
 Support: [https://app.base44.com/support](https://app.base44.com/support)
+
 
