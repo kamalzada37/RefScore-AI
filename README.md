@@ -10,6 +10,9 @@ RefScore AI is a student project that uses machine learning to estimate the qual
 
 This project contains everything you need to run your app locally.
 
+**our cool APP Link, go and check**
+https://ref-rank-score.base44.app/
+
 **Prerequisites:** 
 
 1. Clone the repository using the project's Git URL 
@@ -26,5 +29,6 @@ Run the app: `npm run dev`
 Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
 
 Support: [https://app.base44.com/support](https://app.base44.com/support)
+
 
 
